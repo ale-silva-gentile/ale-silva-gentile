@@ -7,10 +7,7 @@ Acutalmente trabajo en Mercado Libre con el puesto de ingenero de software; en e
 
 Me gusta investigar nuevas tecnologías y lenguajes fuera del ambito laboral, actualmente estoy trabajando en desarrollo web y mobile, utilizando Flask para apps webs y Kotlin para mobile.
 
-
-
-
-<!---
+![image](https://user-images.githubusercontent.com/112590585/188031721-bd4bb685-6d02-4b6e-8af3-ec3051e58153.png)<!---
 ale-silva-gentile/ale-silva-gentile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
