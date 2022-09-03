@@ -8,5 +8,5 @@ Acutalmente trabajo en Mercado Libre con el puesto de ingenero de software; en e
 Me gusta investigar nuevas tecnologías y lenguajes, actualmente estoy trabajando en desarrollo web y mobile, utilizando Flask para apps webs y Kotlin para mobile.
 
 Tengo experencia con impresoras 3d y estoy trabajando en el proyecto Impulso el cual tiene como objetivo la investigación y desarrollo de herramientas para combatir incendios forestales.
-
+ 
 
