@@ -9,9 +9,4 @@ Me gusta investigar nuevas tecnologías y lenguajes fuera del ambito laboral, ac
 
 Tengo experencia con impresoras 3d y estoy trabajando en el proyecto Impulso el cual tiene como objetivo la investigación y desarrollo de herramientas para combatir incendios forestales.
 
-Me gustan los plantas y los animales, encuentro el cuidado de plantas como una terapia donde se necesita constacia y los animales porque ejercitan nuestros metodos de cominicación para expesarnos y realacionanos con nuestro entorno de una manera natural.
-
-Les comparto una foto con mi compañero de trabajo y master en debug cuando tengo problemas con el código, su nombre es Tutuca :
-
-<img width="778" alt="image" src="https://user-images.githubusercontent.com/112590585/188031900-1c10ca51-63c4-4851-b078-eaa58c65ca61.png">
 
