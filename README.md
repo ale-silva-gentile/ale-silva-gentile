@@ -10,7 +10,7 @@ Me gusta investigar nuevas tecnologías y lenguajes, actualmente estoy trabajand
 Estoy trabajando en el proyecto [Impulso](https://github.com/ale-silva-gentile/impluso) el cual tiene como objetivo la investigación y desarrollo de herramientas para combatir incendios forestales.
 
 
-##Contacto
+## Contacto
 
  | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
