@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🚀 Acerca de....
 Hola mi nombre es Ale :)  
 
 Me identifico como una persona activa, responsable y creativa. Con capacidad de gestión para tomar iniciativas cuando las circunstancias lo exigen. Siempre trabajo con actitud positiva, inteligencia emocional y motivadora, orientada al logro de resultados cumpliendo objetivos y contando con una pronta adaptabilidad a los cambios que puedan presentarse en los  proyectos, garantizando la resolución y evolución constante de las tareas asignadas. 
