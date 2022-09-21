@@ -10,12 +10,6 @@ Me gusta investigar nuevas tecnologías y lenguajes, actualmente estoy trabajand
 Estoy trabajando en el proyecto [Impulso](https://github.com/ale-silva-gentile/impluso) el cual tiene como objetivo la investigación y desarrollo de herramientas para combatir incendios forestales.
 
 
-## Contacto
-
- | Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `asilvagentile@gmail.com`      | `email` | Personal email of contact |
-| [linkedin](https://www.linkedin.com/in/alejandro-m-silva-gentile)| `social` | Linkedin account |
 
 
 <img width="633" alt="imagen" src="https://user-images.githubusercontent.com/112590585/191590272-cf89fbb4-0ce2-4439-9c54-8f4c9f788848.png">
