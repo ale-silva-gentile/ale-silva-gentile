@@ -16,5 +16,6 @@ Estoy trabajando en el proyecto [Impulso](https://github.com/ale-silva-gentile/i
 | :-------- | :------- | :-------------------------------- |
 | `asilvagentile@gmail.com`      | `email` | Personal email of contact |
 | [linkedin](https://www.linkedin.com/in/alejandro-m-silva-gentile)| `social` | Linkedin account |
-| [cv](https://www.canva.com/design/DAE5AccAhp8/sg38GlrMuFb9fWgYZGPmYg/view?utm_content=DAE5AccAhp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)| `personal` | **Curriculum vitae** |
 
+
+<img width="633" alt="imagen" src="https://user-images.githubusercontent.com/112590585/191590272-cf89fbb4-0ce2-4439-9c54-8f4c9f788848.png">
