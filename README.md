@@ -10,4 +10,4 @@ Estoy trabajando en el proyecto [Impulso](https://github.com/ale-silva-gentile/i
 
 
 
-<img width="633" alt="imagen" src="https://user-images.githubusercontent.com/112590585/191590272-cf89fbb4-0ce2-4439-9c54-8f4c9f788848.png">
+
