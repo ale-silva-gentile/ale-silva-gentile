@@ -46,7 +46,6 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
   <img src="https://img.shields.io/badge/SOAP-002157?style=for-the-badge&logoColor=white" alt="SOAP" />
 </p>
----
 
 ## 🌱 Interests  
 - 📚 Reading: science fiction, psychology (Carl Jung), trading.  
