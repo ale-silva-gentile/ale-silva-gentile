@@ -52,9 +52,8 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 - 🖨️ Designing and printing 3D models.  
 - 🤖 Exploring **AI-driven automation** to optimize workflows.  
 
----
 
----
+
 
 ## 🌍 Languages  
 -  Spanish: Native  
