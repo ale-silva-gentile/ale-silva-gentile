@@ -57,8 +57,8 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 
 ## 📊 GitHub Stats  
 
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ale-silva-gentile&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-silva-gentile&layout=compact&theme=tokyonight)  
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroSilvaGentile&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aAlejandroSilvaGentile&layout=compact&theme=tokyonight)  
 
 ---
 
