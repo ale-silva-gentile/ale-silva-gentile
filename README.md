@@ -48,7 +48,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 </p>
 
 ## 🌱 Interests  
-- 📚 Reading: science fiction, psychology (Carl Jung), trading.  
+- 📚 Reading: science fiction, psychology, trading.  
 - 🖨️ Designing and printing 3D models.  
 - 🤖 Exploring **AI-driven automation** to optimize workflows.  
 
