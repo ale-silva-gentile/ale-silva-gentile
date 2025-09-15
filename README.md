@@ -43,7 +43,6 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
 ![SOAP](https://img.shields.io/badge/SOAP-002157?style=for-the-badge&logoColor=white)  
 
@@ -64,7 +63,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 ---
 
 ## 🌍 Languages  
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: Intermediate  
+-  Spanish: Native  
+-  English: Intermediate  
 
 ---
