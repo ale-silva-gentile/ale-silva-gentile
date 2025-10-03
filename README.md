@@ -20,11 +20,12 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 
 ---
 
-### **Software Engineer** — Mercado Libre (2019 - 2023)  
-- Developed and maintained software solutions in **Python/JupyterLab** with libraries like **Pandas, NumPy, OpenCV, Pytesseract, and WordCloud**.  
-- Created process features enabling **AI & machine learning integration**.  
-- Performed functional analysis, reporting, and end-to-end QA bug life cycle management.  
+### **Software Engineer**— Mercado Libre (2019 - 2023)
+- Designed and programmed software scripts in Python/JupyterLab for complex task automation, utilizing data manipulation libraries (Pandas, NumPy) to optimize process performance and handle large-scale data processing.
 
+- Contributed to the Artificial Intelligence and Machine Learning strategy by creating key process features, enabling the application of computer vision techniques and advanced text/image analysis (e.g., OpenCV, Pytesseract, WordCloud).
+
+- Performed functional analysis, generated detailed reports, and oversaw the QA bug life cycle from identification through deployment, ensuring high product quality.
 ---
 
 ### **Functional Analyst** — Charles Taylor (Smartix) (2019)  
