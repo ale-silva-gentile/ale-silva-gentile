@@ -5,13 +5,13 @@
 
 ---
 
-## 👋 About Me  
+## About Me  
 Hi, I’m Alejandro — a **Software Engineer & QA Automation Specialist** passionate about building **scalable automation frameworks, data-driven solutions, and AI-powered tools**.  
 I thrive at the intersection of **QA, Data Engineering, and AI**, constantly improving processes to deliver **reliable, efficient, and impactful software solutions**.  
 
 ---
 
-## 💼 Work Experience  
+##  Work Experience  
 
 ### **QA Automation Engineer** — Clip MX (2023 - Present)  
 - Designed and maintained automated testing tools for **Android & iOS applications**.  
@@ -33,7 +33,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 - Coordinated QA activities including bug tracking and reporting.  
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -47,7 +47,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
   <img src="https://img.shields.io/badge/SOAP-002157?style=for-the-badge&logoColor=white" alt="SOAP" />
 </p>
 
-## 🌱 Interests  
+##  Interests  
 - 📚 Reading: science fiction, psychology, trading.  
 - 🖨️ Designing and printing 3D models.  
 - 🤖 Exploring **AI-driven automation** to optimize workflows.  
@@ -55,7 +55,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 
 
 
-## 🌍 Languages  
+##  Languages  
 -  Spanish: Native  
 -  English: Intermediate  
 
