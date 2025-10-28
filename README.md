@@ -1,7 +1,7 @@
 #  Alejandro Martín Silva Gentile  
 
-📍 San Luis, Argentina  
-📧 asilvagentile@gmail.com  
+🌎 San Luis, Argentina  
+✉️ asilvagentile@gmail.com  
 
 ---
 
