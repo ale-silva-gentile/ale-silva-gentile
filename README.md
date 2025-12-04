@@ -28,7 +28,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 - Performed functional analysis, generated detailed reports, and oversaw the QA bug life cycle from identification through deployment, ensuring high product quality.
 ---
 
-### **Functional Analyst** — Charles Taylor (Smartix) (2019)  
+### **Functional Analyst** — Charles Taylor Insuretech (2019)  
 - Automated reporting using **SOAP, REST APIs, and databases**.  
 - Conducted functional analysis for the **insurance business domain**.  
 - Coordinated QA activities including bug tracking and reporting.  
