@@ -34,18 +34,6 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 - Coordinated QA activities including bug tracking and reporting.  
 
 ---
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-
-</p>
 
 ##  Interests  
 - 📚 Reading: science fiction, psychology, trading.  
