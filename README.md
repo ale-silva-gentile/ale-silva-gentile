@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
-Hi, I’m Alejandro — a **Software Engineer & QA Automation Specialist** passionate about building **scalable automation frameworks, data-driven solutions, and AI-powered tools**.  
+**Software Engineer & QA Automation Specialist** passionate about building **scalable automation frameworks, data-driven solutions, and AI-powered tools**.  
 I thrive at the intersection of **QA, Data Engineering, and AI**, constantly improving processes to deliver **reliable, efficient, and impactful software solutions**.  
 
 ---
