@@ -14,7 +14,7 @@ I thrive at the intersection of **QA, Data Engineering, and AI**, constantly imp
 ##  Work Experience  
 
 ### **QA Automation Engineer** — Clip MX (2023 - Present)  
-- Designed and maintained automated testing tools for **Android & iOS applications**.  
+- Designed and maintained automated AI testing frameworks for **Android & iOS applications**.  
 - Integrated CI/CD pipelines and reporting systems to enhance reliability and scalability.  
 - Focused on **quality assurance as a process**, not just testing — including automation, analysis, and continuous feedback.  
 
