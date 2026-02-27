@@ -21,7 +21,7 @@ I thrive at the intersection of **QA, Software Engineer, Data Engineering, and A
 ---
 
 ### **Software Engineer**— Mercado Libre (2019 - 2023)
-- Designed and programmed software scripts in Python/JupyterLab for complex task automation, utilizing data manipulation libraries (Pandas, NumPy) to optimize process performance and handle large-scale data processing.
+- Designed and programmed software scripts in Python/JupyterLab for complex task automation, utilizing data manipulation libraries to optimize process performance and handle large-scale data processing.
 
 - Contributed to the Artificial Intelligence and Machine Learning strategy by creating key process features, enabling the application of computer vision techniques and advanced text/image analysis (e.g., OpenCV, Pytesseract, WordCloud).
 
