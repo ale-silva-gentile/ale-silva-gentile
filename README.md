@@ -29,7 +29,7 @@ I thrive at the intersection of **QA, Software Engineer, Data Engineering, and A
 ---
 
 ### **Functional Analyst** — Charles Taylor Insuretech (2019)  
-- Automated reporting using **SOAP, REST APIs, and databases**.  
+- Automated reporting using **SOAP and REST APIs, databases and automation tools.**.  
 - Conducted functional analysis for the **insurance business domain**.  
 - Coordinated QA activities including bug tracking and reporting.  
 
