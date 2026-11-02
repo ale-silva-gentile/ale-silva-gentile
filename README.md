@@ -43,8 +43,4 @@ I thrive at the intersection of **QA, Software Engineer, Data Engineering, and A
 
 
 
-##  Languages  
--  Spanish: Native  
--  English: Intermediate  
-
 ---
